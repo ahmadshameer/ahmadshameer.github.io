@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ahmad Shameer Merican",
-    "currentPage": "ahmadshameer.html",
+    "currentPage": "ahmadshamee.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1218,7 +1218,7 @@
     "ahmadshamee.html": {
       "settings": {
         "meta_descr": "About Me",
-        "title": "About Me",
+        "title": "Ahmad Shameer - About Me",
         "order": 2
       },
       "components": [
@@ -1985,7 +1985,7 @@
     "ahmadshame.html": {
       "settings": {
         "meta_descr": "Services",
-        "title": "Services",
+        "title": "Ahmad Shameer - Services",
         "order": 1
       },
       "components": [
