@@ -1827,8 +1827,8 @@ section.lazy-placeholder:after {
   flex-direction: column-reverse;
 }
 .cid-s7bG3Uy6Q2 {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 @media (max-width: 767px) {
