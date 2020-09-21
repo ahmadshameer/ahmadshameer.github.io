@@ -1452,26 +1452,47 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s7bP1hhTrz {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-sbdugIsgXb {
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #cccccc;
 }
-.cid-s7bP1hhTrz .title {
-  margin-bottom: 2rem;
+.cid-sbdugIsgXb .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
 }
-.cid-s7bP1hhTrz .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s7bP1hhTrz a:not([href]):not([tabindex]) {
-  color: #fff;
+.cid-sbdugIsgXb .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
   border-radius: 3px;
+  border: 1px solid #ffffff;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
 }
-.cid-s7bP1hhTrz a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
+.cid-sbdugIsgXb .nav-tabs .nav-link:hover {
+  background-color: #ff3366;
 }
-.cid-s7bP1hhTrz textarea.form-control {
-  min-height: 188px;
+.cid-sbdugIsgXb .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #ff3366;
+}
+.cid-sbdugIsgXb .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-sbdugIsgXb p {
+  color: #232323;
+}
+.cid-sbdugIsgXb .mbr-text {
+  text-align: center;
 }
 .cid-s7bIES5iYJ {
   padding-top: 30px;
