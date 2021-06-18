@@ -710,6 +710,31 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-sAFabneMst {
+  background: #0f7699;
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #e29e25, #0f7699);
+}
+.cid-sAFabneMst .image-block {
+  margin: auto;
+}
+.cid-sAFabneMst figcaption {
+  position: relative;
+}
+.cid-sAFabneMst figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sAFabneMst .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sAFabneMst DIV {
+  text-align: center;
+}
 .cid-s7c69iIAjn {
   padding-top: 90px;
   padding-bottom: 15px;
