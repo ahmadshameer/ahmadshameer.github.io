@@ -781,6 +781,9 @@ section.lazy-placeholder:after {
 .cid-sHP7dxgCpM .mbr-section-btn {
   color: #232323;
 }
+.cid-sHP7dxgCpM .text1 {
+  text-align: left;
+}
 .cid-s7c69iIAjn {
   padding-top: 45px;
   padding-bottom: 60px;
@@ -1195,10 +1198,6 @@ section.lazy-placeholder:after {
 .cid-s79jkOedvn .nav-link:hover,
 .cid-s79jkOedvn .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-s7fGySMSov {
-  padding-top: 30px;
-  padding-bottom: 60px;
 }
 .cid-s7fDSQ9ozh .modal-body .close {
   background: #1b1b1b;
